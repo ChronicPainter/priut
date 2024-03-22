@@ -1,0 +1,16 @@
+flask
+
+flask-sqlalchemy
+flask-migrate
+psycopg2-binary
+
+flask-jwt-extended
+flask-restful
+flask-cors
+flask-socketio
+requests
+
+passlib
+python-dotenv
+
+gunicorn
